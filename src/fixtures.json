@@ -1,0 +1,295 @@
+{
+    "newsletters": {
+        "poetry": [
+            {
+                "title": "Poetry Anthology #28",
+                "author": "Lee Cotman",
+                "img": "newsletter-placeholder.png",
+                "desc": "The 28th volume of our Prisoner Express Poetry Anthology is now available to read online.",
+                "date": "2-29-24",
+                "pdfurl": "PP28-final.pdf"
+            },
+            {
+                "title": "Poetry Anthology #27",
+                "author": "Gary Fine",
+                "img": "poetry-27.png",
+                "desc": "The 27th volume of our Prisoner Express Poetry Anthology is now available to read online.",
+                "date": "4-3-23",
+                "pdfurl": "PP-27.pdf"
+            },
+            {
+                "title": "Poetry Anthology #26",
+                "author": "Gary Fine",
+                "img": "newsletter-2.jpeg",
+                "desc": "The 26th Prisoner Express Poetry Anthology is now available to read!",
+                "date": "11-15-22",
+                "pdfurl": "PP26-Final-1.pdf"
+            },
+            {
+                "title": "Poetry Anthology #25",
+                "author": "Kimberly V",
+                "img": "poetry-25.jpg",
+                "desc": "Do you ever wonder what incarcerated individuals think about? Those mysterious thoughts are what I’ve been able to observe while constructing the 25th Poetry Anthology for Prisoner Express.",
+                "date": "3-18-22",
+                "pdfurl": "PP-25.pdf"
+            },
+            {
+                "title": "Poetry Anthology #17",
+                "author": "Volunteer",
+                "img": "poetry-17.jpeg",
+                "desc": "Prisoner Express Poetry Anthology Vol. 17 has been published and is now available for browsing online",
+                "date": "4-3-17",
+                "pdfurl": "PP-17.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            }
+        ],
+        "essays": [
+            {
+                "title": "The Rapture Game",
+                "author": "Catherine LaFleur",
+                "img": "Essay1.png",
+                "desc": "",
+                "date": "May 2024",
+                "pdfurl": "Essay1.pdf"
+            },
+            {
+                "title": "Imagination",
+                "author": "Andy Ortiz",
+                "img": "Essay2.png",
+                "desc": "",
+                "date": "May 2024",
+                "pdfurl": "Essay2.pdf"
+            },
+            {
+                "title": "Gratitude",
+                "author": "Andy Ortiz",
+                "img": "Essay3.png",
+                "desc": "",
+                "date": "April 2024",
+                "pdfurl": "Essay3.pdf"
+            },
+            {
+                "title": "A Few of My Favorite Things",
+                "author": "Catherine LeFleur",
+                "img": "Essay4.png",
+                "desc": "",
+                "date": "April 2024",
+                "pdfurl": "Essay4.pdf"
+            },
+            {
+                "title": "An Excursion",
+                "author": "Alan Piwowar",
+                "img": "Essay5.png",
+                "desc": "",
+                "date": "Feb 2024",
+                "pdfurl": "Essay5.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            }
+        ],
+        "journals": [
+            {
+                "title": "Fade But Not Gone",
+                "author": "Joshua Morales",
+                "img": "journal1.png",
+                "desc": "",
+                "date": "April 2024",
+                "pdfurl": "journal1.pdf"
+            },
+            {
+                "title": "Hello",
+                "author": "James Jackson",
+                "img": "journal2.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "journal2.pdf"
+            },
+            {
+                "title": "Age Old Wisdom",
+                "author": "Kirk Ashton",
+                "img": "journal3.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "journal3.pdf"
+            },
+            {
+                "title": "Overcoming an Obstacle",
+                "author": "Dale Wakefield",
+                "img": "journal4.png",
+                "desc": "",
+                "date": "Feb 2024",
+                "pdfurl": "journal4.pdf"
+            },
+            {
+                "title": "Pixie Planet",
+                "author": "Michael Powell",
+                "img": "journal5.png",
+                "desc": "",
+                "date": "Feb 2025",
+                "pdfurl": "journal5.pdf"
+            },
+            {
+                "title": "Like A Ballerina",
+                "author": "Terance Wilson",
+                "img": "journal6.png",
+                "desc": "",
+                "date": "Jan 2024",
+                "pdfurl": "journal6.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            }
+        ],
+        "artwork": [
+            {
+                "title": "Grapes try Grape Jelly",
+                "author": "Hayim Raison",
+                "img": "art1.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "art1.pdf"
+            },
+            {
+                "title": "Bebe Rexha",
+                "author": "Wendell Neil",
+                "img": "art2.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "art2.pdf"
+            },
+            {
+                "title": "Untitled",
+                "author": "Dennis Svellentrop",
+                "img": "art3.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "art3.pdf"
+            },
+            {
+                "title": "Happy B-Day To Self",
+                "author": "Kenneth Zamarron",
+                "img": "art4.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "art4.pdf"
+            },
+            {
+                "title": "Full Front",
+                "author": "D'Andre Morris",
+                "img": "art5.png",
+                "desc": "",
+                "date": "March 2024",
+                "pdfurl": "art5.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            }
+        ],
+        "education": [
+            {
+                "title": "ARTKnows",
+                "author": "Lee Cotman",
+                "img": "edu-1.png",
+                "desc": "Welcome to ARTknows! In this edition we are going to explore the art of couples. There have been famous couples in all walks of life throughout history; political couples such as Cleopatra and Julius Caesar (or was it Mark Anthony, or both?) or singing couples such as Tina and Ike Turner. How about visual fine art couples?",
+                "date": "Fall 2023",
+                "pdfurl": "2023-Fall-ARTKNOWS.pdf"
+            },
+            {
+                "title": "App Design",
+                "author": "Lee Cotman",
+                "img": "APP233.png",
+                "desc": "No prior design experience required! This packet focuses on the creative design process of app creation. We will cover the life cycle of the human-centered design process, from user research (learning about your audience) to design (exploring design solutions) and prototyping (creating interactive prototypes of your design).",
+                "date": "Fall 2023",
+                "pdfurl": "APP-Design.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Lee Cotman",
+                "img": "CHS23.png",
+                "desc": "blahblahblah",
+                "date": "Fall 2023",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Meditation and Spirituality",
+                "author": "Lee Cotman",
+                "img": "MED23.png",
+                "desc": "This packet contains information about various practices in meditation, its benefits, advice, a list of resources, and more. Begin or continue your journey to soothe and sharpen your mind in new ways.",
+                "date": "Fall 2023",
+                "pdfurl": "meditation-packet.pdf"
+            },
+            {
+                "title": "Philosophy",
+                "author": "Gary Fine",
+                "img": "philosophy-pic.png",
+                "desc": "Trying to make sense of this world, and especially trying to understand spiritual and emotional well-being while faced with all the challenges of life has left man scratching his head and pondering. This program leads you through a historical tour of the development of some of this philosophical thought. It also contains exercises and questions to help you process the nuanced materials. For those curious about philosophy, this packet provides a great start.",
+                "date": "Fall 2023",
+                "pdfurl": "Philosophy-Curriculum.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            },
+            {
+                "title": "Late Spring",
+                "author": "Edwin",
+                "img": "newsletter-2.jpeg",
+                "desc": "blahblahblah",
+                "date": "10-20-23",
+                "pdfurl": "poem.pdf"
+            }
+        ]
+    }
+
+}

@@ -1,0 +1,266 @@
+{
+    "app-design": {
+        "programname": "App Design",
+        "programdesc": "No prior design experience required! This program focuses on the creative design process of app creation. We will cover the life cycle of the human-centered design process, from user research (learning about your audience) to design (exploring design solutions) and prototyping (creating interactive prototypes of your design). (taken from https://prisonerexpress.org/2024/02/app-design-fall-23/)",
+        "img": "program-placeholder.png",
+        "offerings": "Spring 2023",
+        "previousofferings": [
+            {
+                "title": "App Design",
+                "author": "Lee Cotman",
+                "desc": "Our App Design program from Spring 2022.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2022",
+                "pdfurl": "APP-Design.pdf"
+            }
+        ]
+    },
+    "art-knows": {
+        "programname": "ARTKNOWS",
+        "programdesc": "Welcome to this new edition of DRAWING FROM LIFE. In this curriculum, you will learn about three things: drawing from life, light/shadow/form, and art history. If you are interested in studying art and improving your personal drawing and art skills, this curriculum will guide you through the process. (taken from https://prisonerexpress.org/2022/07/artknows-spring-22/)",
+        "img": "program-placeholder.png",
+        "offerings": "Spring 2023",
+        "previousofferings": [
+            {
+                "title": "ARTKNOWS",
+                "author": "Lee Cotman",
+                "desc": "Our ARTKNOWS program from Fall 2022.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2022",
+                "pdfurl": "2023-Fall-ARTKNOWS.pdf"
+            },
+            {
+                "title": "ARTKNOWS",
+                "author": "Gary Fine",
+                "desc": "Our ARTKNOWS program from Summer 2022.",
+                "img": "program-placeholder.png",
+                "date": "Summer 2022",
+                "pdfurl": "2023-Fall-ARTKNOWS.pdf"
+            },
+            {
+                "title": "ARTKNOWS",
+                "author": "Ryan Clover",
+                "desc": "Our ARTKNOWS program from Spring 2018.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2018",
+                "pdfurl": "2023-Fall-ARTKNOWS.pdf"
+            },
+            {
+                "title": "ARTKNOWS",
+                "author": "Ryan Clover",
+                "desc": "Our ARTKNOWS program from Fall 2016.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2016",
+                "pdfurl": "2023-Fall-ARTKNOWS.pdf"
+            }
+        ]
+    },
+    "chess": {
+        "programname": "Chess",
+        "programdesc": "Embark on a strategic journey through the timeless game of chess with our comprehensive chess course. Tailored for players of all levels, from novices to experienced enthusiasts, this course offers a structured curriculum designed to enhance your understanding and mastery of the game.",
+        "img": "program-placeholder.png",
+        "offerings": "Winter 2023",
+        "previousofferings": [
+            {
+                "title": "Chess",
+                "author": "Lee Cotman",
+                "desc": "Our Chess program from Fall 2021.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2021",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Lee Cotman",
+                "desc": "Our Chess program from Spring 2020.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2020",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Ryan Clover",
+                "desc": "Our Chess program from Spring 2018.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2018",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Ryan Clover",
+                "desc": "Our Chess program from Fall 2017.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2017",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Ryan Clover",
+                "desc": "Our Chess program from Summer 2017.",
+                "img": "program-placeholder.png",
+                "date": "Summer 2017",
+                "pdfurl": "Chess-Newsletter.pdf"
+            },
+            {
+                "title": "Chess",
+                "author": "Ryan Clover",
+                "desc": "Our Chess program from Fall 2016.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2016",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "computer-science": {
+        "programname": "Computer Science",
+        "programdesc": "Whether you aspire to pursue a career in software development, data science, cybersecurity, or simply wish to comprehend the technology shaping our world, this course will lay the groundwork for your journey. Join us as we embark on an exciting exploration of Computer Science, where every line of code becomes a step towards unlocking infinite possibilities in the digital realm.",
+        "img": "program-placeholder.png",
+        "offerings": "Spring 2023",
+        "previousofferings": [
+            {
+                "title": "Computer Science",
+                "author": "Mariana",
+                "desc": "Our Computer Science program from Winter 2021.",
+                "img": "program-placeholder.png",
+                "date": "Winter 2021",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "film-writing": {
+        "programname": "Film Writing",
+        "programdesc": "Speak to your inner writer. Put the story living in your head to paper. This program provides a spark to help you in your creative work to bring those ideas to life and excite your writing interests. This curriculum contains concepts and exercises that will help you begin crafting a story for film or television. (taken from https://prisonerexpress.org/2022/07/film-writing-spring-22/)",
+        "img": "program-placeholder.png",
+        "offerings": "Summer 2022",
+        "previousofferings": [
+            {
+                "title": "Film Writing",
+                "author": "Gary Fine",
+                "desc": "Our Film Writing program from Spring 2022.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2022",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "grammar": {
+        "programname": "Grammar",
+        "programdesc": "For many years we have focused on creative writing, and we will continue to do so, but this cycle PE grammar guru Clara has created a thorough instructional program on grammar rules. So many prisoners have never had anyone explain correct grammar to them and at last count 790 prisoners have requested this lesson. It will go a long way to helping prisoners improve their communication skills. (taken from https://prisonerexpress.org/2016/11/telling-story-grammar/)",
+        "img": "program-placeholder.png",
+        "offerings": "Fall 2019",
+        "previousofferings": [
+            {
+                "title": "Grammar",
+                "author": "Ryan Clover",
+                "desc": "Our Grammar program from Fall 2016.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2016",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "immunology": {
+        "programname": "Immunology",
+        "programdesc": "Welcome to the Immunology Curriculum. You’ll learn in this program how viruses have wreaked havoc on humans from a biological lens.  The pandemic has made this topic very relevant and important to make yourself aware of, and I invite you all to read this program and learn about the human immune system, antibodies, vaccines, and more. (taken from https://prisonerexpress.org/2022/07/immunology-sp22/)",
+        "img": "program-placeholder.png",
+        "offerings": "Winter 2020",
+        "previousofferings": [
+            {
+                "title": "Immunology",
+                "author": "Gary Fine",
+                "desc": "Our Immunology program from Winter 2019.",
+                "img": "program-placeholder.png",
+                "date": "Winter 2019",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "meditation": {
+        "programname": "Meditation",
+        "programdesc": "Dear Present and Future Meditators. We have an interesting program this cycle created by Sarah and Tara. They created their pieces independently so there are two different flavors to the program. This program contains information about various practices in meditation, its benefits, advice, a list of resources, and more. Begin or continue your journey to soothe and sharpen your mind in new ways. (taken from https://prisonerexpress.org/2022/07/meditation-spring-22/)",
+        "img": "program-placeholder.png",
+        "offerings": "Summer 2021",
+        "previousofferings": [
+            {
+                "title": "Meditation",
+                "author": "Gary Fine",
+                "desc": "Our Meditation program from Spring 2018.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2018",
+                "pdfurl": "meditation-packet.pdf"
+            },
+            {
+                "title": "Meditation",
+                "author": "Ryan Clover",
+                "desc": "Our Meditation program from Fall 2016.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2016",
+                "pdfurl": "meditation-packet.pdf"
+            }
+        ]
+    },
+    "philosophy": {
+        "programname": "Philosophy",
+        "programdesc": "Trying to make sense of this world, and especially trying to understand spiritual and emotional well-being while faced with all the challenges of life has left man scratching his head and pondering. This program leads you through a historical tour of the development of some of this philosophical thought. It also contains exercises and questions to help you process the nuanced materials (taken from https://prisonerexpress.org/2022/07/philosophy-spring-22/)",
+        "img": "program-placeholder.png",
+        "offerings": "Spring 2022",
+        "previousofferings": [
+            {
+                "title": "Philosophy",
+                "author": "Gary Fine",
+                "desc": "Our Philosophy program from Summer 2020.",
+                "img": "program-placeholder.png",
+                "date": "Summer 2020",
+                "pdfurl": "Philosophy-Curriculum.pdf"
+            }
+        ]
+    },
+    "poetry": {
+        "programname": "Poetry",
+        "programdesc": "Step into the realm of poetic expression with our beginner's poetry program, where words become brushstrokes on the canvas of emotion. Whether you're an aspiring bard or simply curious about the power of verse, this welcoming environment offers a gentle introduction to the art of crafting poetry. ",
+        "img": "program-placeholder.png",
+        "offerings": "Winter 2022",
+        "previousofferings": [
+            {
+                "title": "Poetry",
+                "author": "Gary Fine",
+                "desc": "Our Poetry program from Summer 2021.",
+                "img": "program-placeholder.png",
+                "date": "Summer 2021",
+                "pdfurl": "poem.pdf"
+            }
+        ]
+    },
+    "song-writing": {
+        "programname": "Song Writing",
+        "programdesc": "Prisoners are invited to create original songs and share it through this course created by Kathy Ziegler. She’s a multi-instrumentalist who likes to write songs. (taken from https://prisonerexpress.org/2016/11/songwriting/)",
+        "img": "program-placeholder.png",
+        "offerings": "Spring 2019",
+        "previousofferings": [
+            {
+                "title": "Song Writing",
+                "author": "Ryan Clover",
+                "desc": "Our Song Writing program from Fall 2016.",
+                "img": "program-placeholder.png",
+                "date": "Fall 2016",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    },
+    "spanish": {
+        "programname": "Spanish",
+        "programdesc": "Embark on an exciting linguistic journey with our Introduction to Spanish course, designed to immerse you in the vibrant world of the Spanish language. Whether you're a complete beginner or seeking to refresh your skills, our course offers a dynamic and interactive learning experience. From mastering essential vocabulary and pronunciation to grasping basic grammar structures and conversational phrases, our comprehensive curriculum will equip you with the tools to communicate confidently in Spanish.",
+        "img": "program-placeholder.png",
+        "offerings": "Fall 2020",
+        "previousofferings": [
+            {
+                "title": "Spanish",
+                "author": "Gary Fine",
+                "desc": "Our Spanish program from Spring 2019.",
+                "img": "program-placeholder.png",
+                "date": "Spring 2019",
+                "pdfurl": "Chess-Newsletter.pdf"
+            }
+        ]
+    }
+}
