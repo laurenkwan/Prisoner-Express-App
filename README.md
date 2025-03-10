@@ -1,4 +1,12 @@
-#
+# Prisoner Express
+
+My project focuses on designing a tablet-based app for incarcerated individuals to improve communication, access to education, and opportunities for creative expression with the use of JavaScript, HTML, CSS. Through user research, I identified key challenges that prisoners face, including isolation, limited access to educational resources, financial burdens on families for communication services, and disparities in technological literacy. To address these issues, the app is designed to provide a digital newsletter that fosters human connection, educational content that encourages personal growth, and a submission system for prisoners to share their writing and artistic work. Given the constraints of limited internet access, the app operates with pre-approved and pre-downloaded content while ensuring accessibility for users with varying levels of technological experience.
+
+The design incorporates a simple, collapsible side navigation bar featuring key content areas: Current Newsletter, Archives, and Resources. This structure ensures users can easily explore available materials, such as poetry, journal submissions, and past educational programs. Task scenarios were developed to guide users through meaningful interactions, such as finding submission guidelines for their creative work, accessing journal entries for emotional support, exploring past philosophy courses, and checking content policies for censorship compliance. The app’s interface is designed for intuitive tap-based navigation, enabling users to quickly locate and engage with relevant content.
+
+## Link to published PWA
+
+[Prisoner Express](https://cornell-info4340-2024sp.github.io/the-vue-tiful-minds-project/)
 
 
 ## Recommended IDE Setup
